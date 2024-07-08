@@ -7,6 +7,18 @@
   <img src="https://komarev.com/ghpvc/?username=OlegVorontsov&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+
+I'm a C# Developer
+
+- :telescope: I would like to work as a С# engineer and contribute to the front-end and most to backend of web applications.
+
+
+
+
+
 <!--
 **OlegVorontsov/OlegVorontsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
